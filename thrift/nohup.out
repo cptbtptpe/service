@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 192.168.0.222 - - [03/May/2017 09:47:27] "POST /service.php HTTP/1.0" 200 -
 192.168.0.222 - - [03/May/2017 09:47:27] "POST /service.php HTTP/1.0" 200 -
 192.168.0.222 - - [04/May/2017 16:49:15] "POST /service.php HTTP/1.0" 200 -
@@ -15384,3 +15385,5 @@ socket.error: [Errno 48] Address already in use
 192.168.0.224 - - [14/Nov/2017 13:44:20] "POST /service.php HTTP/1.0" 200 -
 192.168.0.224 - - [14/Nov/2017 13:44:21] "POST /service.php HTTP/1.0" 200 -
 192.168.0.224 - - [14/Nov/2017 13:44:21] "POST /service.php HTTP/1.0" 200 -
+=======
+>>>>>>> Stashed changes
